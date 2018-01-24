@@ -1,10 +1,7 @@
+=========================Refrences That I want to add: Suggestions by Alcibiades Holmes=====================
 Alcibiades I. Holmes
 CS 498 Section 001
 1/24/2018
-
-
-
-Refrences That I want to add:
 This is a great website that helps teach HTML, CSS, JavaScript, SQL and other languages
 https://www.w3schools.com/
 
@@ -251,3 +248,13 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+
+
+=========================Refrences That I want to add: Suggestions by Alcibiades Holmes=====================
+Alcibiades I. Holmes
+CS 498 Section 001
+1/24/2018
+This is a great website that helps teach HTML, CSS, JavaScript, SQL and other languages
+https://www.w3schools.com/
+============================================================================================================
